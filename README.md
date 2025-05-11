@@ -73,6 +73,27 @@ Split: 70% Train | 30% Test (stratified by triage grade, OrgId, DetectorId)
 - Evaluated on held-out test set (test.csv)
 - Compared performance with baseline
 
+# 📈 Evaluation Metrics
+
+- Macro-F1 Score: Overall performance across TP, BP, FP
+- Precision: Relevance of positive predictions
+- Recall: Ability to detect true incidents
+
+# 🛠️ Tech Stack & Skills
+
+- Languages: Python
+- Libraries: pandas, numpy, scikit-learn, XGBoost, LightGBM, imbalanced-learn, SHAP, matplotlib, seaborn
+- Tools: Jupyter, Git, VS Code
+- Skills Gained:
+      - Data Preprocessing & Feature Engineering
+      - ML Model Benchmarking & Evaluation
+      - Cybersecurity Contextualization (MITRE ATT&CK)
+      - Handling Imbalanced Data
+      - Model Interpretability (SHAP, permutation importance)
+
+
+
+
 
 
 
